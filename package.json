@@ -1,0 +1,23 @@
+{
+  "name": "cypress-automation-framework",
+  "version": "1.0.0",
+  "description": "Cypress Automation Framework",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedcode/cypress-automation-framework.git"
+  },
+  "author": "Nenad Petrovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedcode/cypress-automation-framework/issues"
+  },
+  "homepage": "https://github.com/nedcode/cypress-automation-framework#readme"
+}
